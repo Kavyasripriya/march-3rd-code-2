@@ -1,0 +1,6 @@
+t1=("mpcs","mccs","mecs")
+t2=("mpc","mstcs","mpair")
+t3=t1+t2
+print(t3)
+output:
+('mpcs', 'mccs', 'mecs', 'mpc', 'mstcs', 'mpair')
